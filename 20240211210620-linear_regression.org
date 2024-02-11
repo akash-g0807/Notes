@@ -7,3 +7,5 @@
 Consider we have some data of houses with the following input and output
       + Input X: Size of House ($\textbf{feet}^{2}$)
       + Output Y: Price in
+
+[[./images/linear_regression.jpg]]
