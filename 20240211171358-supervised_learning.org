@@ -4,3 +4,28 @@
 #+title: Supervised Learning
 
 * What is supervised Learning
+Supervised Learning algorithms learn from an *input* X to a given *output* Y. i.e. using mappings
+
+\begin{equation*}
+X \rightarrow Y
+\end{equation*}
+
+The key concept is:
+
+#+begin_quote
+You give your model examples to learn from where the right answer is given (the correct output Y)
+#+end_quote
+
+** Examples of Supervised Learning
+1. Spam Filtering:
+   + Input (X): Email
+   + Output (Y): Whether it is spam or not
+2. Speech Recognition:
+   + Input (X): Audio
+   + Output(Y): Text Transcript
+
+Of course there are more examples
+
+* Types of Supervised Learning
+There are two main types of supervised learning
+1.  [[id:0f201f80-c624-4c24-bd4e-60252354c19c][Regression]]

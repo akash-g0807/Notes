@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       455f7cd5-7dc7-4925-b94c-12c5e790347e
+:END:
+#+title: Linear Regression
+
+* Intuition
+Consider we have some data of houses with the following input and output

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       0f201f80-c624-4c24-bd4e-60252354c19c
+:END:
+#+title: Regression
+
+* Types of Regression
+
+1. [[id:455f7cd5-7dc7-4925-b94c-12c5e790347e][Linear Regression]]
