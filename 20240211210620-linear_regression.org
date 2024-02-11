@@ -8,4 +8,10 @@ Consider we have some data of houses with the following input and output
       + Input X: Size of House ($\textbf{feet}^{2}$)
       + Output Y: Price in
 
-[[./images/linear_regression.jpg]]
+[[https://raw.githubusercontent.com/akash-g0807/Notes/main/images/linear_regression.jpg][Linear Regression Image]]
+
+As you can see here, we try and find *the Line of best fit* for the data whether it is a curve, straight line etc.
+
+#+begin_quote
+Predicts a number from infinitely many outputs
+#+end_quote
